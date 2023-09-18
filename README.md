@@ -3,11 +3,11 @@
 <br />
 
 
-![IMG_20221024_174357 (2)](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/cd72b079-b2bd-4e66-ba3e-6a41a6aa91e9)
+ <img width="200" height="200" src= ![IMG_20221024_174357 (2)](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/cd72b079-b2bd-4e66-ba3e-6a41a6aa91e9)>
 
  
  <p align = "center">
- <img width="200" height="200" src= "Photo by fauxels from Pexels: https://www.pexels.com/photo/person-using-a-laptop-3183131.png/">
+ 
  </p>
 
 
