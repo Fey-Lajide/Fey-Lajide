@@ -10,7 +10,8 @@
 <h1 align="center">ABOUT ME ✨</h1> 
 <h3 align="center"><b>I am a ✨ **Data Analyst and Data Storyteller** ✨ with project experience with top companies like **Pwc, KPMG, TATA, and Accenture.</b></h3>
 
-<h5 align= "center">
+<h5>MORE INFOR</h5>H5>
+<h5 align= "left">
 - 🔭 I’m currently working on being the best Data Analyst and the most sought after in the field. 
 - 🌱 I’m currently scalling up by learning how to utilise Python to utilize data. 
 - 👯 I’m looking to collaborate on Data related projects.
