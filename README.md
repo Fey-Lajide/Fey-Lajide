@@ -1,9 +1,12 @@
 <h1 align="center">Hi there! 👋 I am Feyikemi Olajide</h1>
 
 <br />
+
+![Uploading IMG_20221024_174357 (2).jpg…]()
+
  
  <p align = "center">
- <img width="200" height="200" src=//Photo by fauxels from Pexels: https://www.pexels.com/photo/person-using-a-laptop-3183131/">
+ <img width="200" height="200" src= "Photo by fauxels from Pexels: https://www.pexels.com/photo/person-using-a-laptop-3183131.png/">
  </p>
 
 
@@ -36,9 +39,9 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 
 <br />
 
-<h3><B>SNIPPETS OF MY PROJECTS ✨✨✨</B></h1> 
+<h3><B>SNIPPETS OF MY PROJECTS ✨</B></h1> 
 
-ALIBABA SALES INSIGHTS 
+<center> <b> ✨✨✨ ALIBABA SALES INSIGHTS </b> </center>center>
 
 ![Insights Page](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/a1b95743-8c43-4f16-9ae1-0f79876824a0)
 
