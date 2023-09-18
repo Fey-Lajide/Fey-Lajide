@@ -16,7 +16,6 @@ I am a Data Analyst and Data Storyteller with project experience from top compan
 <h3><b>✨ MORE INFOR</b></h3>
 
 - 🔭 I’m currently working on being the best Data Analyst and the most sought after in the field. 
-- 🌱 I’m currently scalling up by learning how to utilise Python to utilize data. 
 - 👯 I’m open to jobs that require the help and expertise of a data analyst.
 - 📫 Check out my reputation: https://www.linkedin.com/in/feylajide/
 - 🤔 Do you have any projects that involve the analysis and visualization of data? Hit me up!
