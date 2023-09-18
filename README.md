@@ -30,27 +30,23 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 - 🛠️ POSTGRESQL <BR/>
 - 🛠️ TABLEAU <BR/>
 
+<h3><B>SNIPPETS OF MY PROJECTS ✨</B></h3> 
 
-<h1 align = "center"><B>SNIPPETS OF MY PROJECTS</B></h1> 
 
-
-<h2 align = "center"> <b>ALIBABA SALES INSIGHTS </b></h2>
+<h5> <b>✨ALIBABA SALES INSIGHTS </b></h2>
 
 <br/>
 <p align = "center">
 
-  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/a1b95743-8c43-4f16-9ae1-0f79876824a0.png" width="420" height="350">
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/a1b95743-8c43-4f16-9ae1-0f79876824a0.png" width="620" height="450">
   </p>
 
 <p align = "center">
 
-  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/dd084a08-3d02-40b5-9847-59fcfe15aba6.png" width="420" height="350">
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/dd084a08-3d02-40b5-9847-59fcfe15aba6.png" width="620" height="450">
   </p>
 
-<br/>
-
-<h2 align = "center"> <b>HR INSIGHTS </b></h2> 
-<br/>
+<h2><b>HR INSIGHTS ✨</b></h2> 
 
 <p align = "center">
 
