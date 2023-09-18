@@ -2,7 +2,8 @@
 
 <br />
 
-![Uploading IMG_20221024_174357 (2).jpg…]()
+
+![IMG_20221024_174357 (2)](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/cd72b079-b2bd-4e66-ba3e-6a41a6aa91e9)
 
  
  <p align = "center">
@@ -41,13 +42,22 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 
 <h1 align = "center"><B>SNIPPETS OF MY PROJECTS ✨</B></h1> 
 
-<center><b>✨✨✨ ALIBABA SALES INSIGHTS </b></center>center>
+<br/>
+
+<h2 align = "center"> <b>✨✨✨ ALIBABA SALES INSIGHTS </b></h2>
+
+<br/>
+<br/>
 
 ![Insights Page](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/a1b95743-8c43-4f16-9ae1-0f79876824a0)
 
 ![Sales Page](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/dd084a08-3d02-40b5-9847-59fcfe15aba6)
+<br/>
+<br/>
 
-HR INSIGHTS 
+<h2 align = "center"> <b>✨✨✨ HR INSIGHTS </b></h2> 
+<br/>
+<br/>
 
 ![Details Page](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/d283813a-c5b1-4a62-82a5-4b94801e84a8)
 
