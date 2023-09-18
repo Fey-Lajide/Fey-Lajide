@@ -5,15 +5,21 @@
 <br />
 
 
+<br />
+
+
 ![data-analyst](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/ffbc0a1f-c485-4f06-a6e7-265ef56e229c)
 
 
 
 
+ABOUT ME ✨
 
+<BR />
 
 **I** am a ✨ Data Analyst and Data Storyteller ✨ with project experience with top companies like Pwc, KPMG, TATA, and Accenture.
 
+<br />
 
 - 🔭 I’m currently working on being the best Data Analyst and the most sought after in the field. 
 - 🌱 I’m currently scalling up by learning how to utilise Python to utilize data. 
@@ -26,4 +32,6 @@
 - 😄 Pronouns: She
 - ⚡ Fun fact: I teach Data Analysis!
 - ⚡ Fun fact: I write!
+
+<br />
 
