@@ -2,9 +2,15 @@
 
 <br />
 
+<img
+  src="/path/to/img.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+  <img src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/cd72b079-b2bd-4e66-ba3e-6a41a6aa91e9.jpg" width="100" height="100">
 
 ![IMG_20221024_174357 (2)](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/cd72b079-b2bd-4e66-ba3e-6a41a6aa91e9)
-
 
 
 <h3>ABOUT ME ✨</h3> 
@@ -52,3 +58,5 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 ![HR Dashboard](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/0779d610-30df-476b-b0dc-2ea5893ff25f)
 
 
+<h3><b>MORE PROJECTS </b></h3>
+Will you like to explore more of my projects? Then click this link 
