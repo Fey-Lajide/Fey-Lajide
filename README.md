@@ -8,7 +8,7 @@
   </p>
 
 
-<h3>ABOUT ME ✨</h3> 
+<h3>✨ ABOUT ME</h3> 
 I am a Data Analyst and Data Storyteller with project experience with top companies like Pwc, KPMG, TATA, and Accenture
 
 <h3><b>MORE INFOR ✨</b></h3>
@@ -52,8 +52,8 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 <h5><b>🔭 HR INSIGHTS</b></h5> 
 <br/>
 
-  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/d283813a-c5b1-4a62-82a5-4b94801e84a8.png" width="420" height="350">/
-  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/8de96158-9c97-4a14-996f-236d2d0c3ace.png" width="420" height="350">\
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/d283813a-c5b1-4a62-82a5-4b94801e84a8.png" width="420" height="350"><BR/><BR/>
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/8de96158-9c97-4a14-996f-236d2d0c3ace.png" width="420" height="350"><BR/><BR/>
   <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/0779d610-30df-476b-b0dc-2ea5893ff25f'png" width="420" height="350">
 
 
