@@ -3,12 +3,12 @@
 <br />
  
  <p align = "center">
-<img width="320" height="350" src = "https://unsplash.com/photos/hpjSkU2UYSUutm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" alt="Material Bread logo">
+<img width="320" height="350" src = "Photo by fauxels from Pexels: https://www.pexels.com/photo/person-using-a-laptop-3183131/">
  </p>
 
 
 <h3>ABOUT ME ✨</h3> 
-<h3 align="center"><b>I am a ✨ **Data Analyst and Data Storyteller** ✨ with project experience with top companies like **Pwc, KPMG, TATA, and Accenture.</b></h3>
+I am a Data Analyst and Data Storyteller with project experience with top companies like Pwc, KPMG, TATA, and Accenture
 
 <h5>MORE INFOR</h5>
 
