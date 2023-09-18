@@ -39,9 +39,9 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 
 <br />
 
-<h3><B>SNIPPETS OF MY PROJECTS ✨</B></h1> 
+<h1 align = "center"><B>SNIPPETS OF MY PROJECTS ✨</B></h1> 
 
-<center> <b> ✨✨✨ ALIBABA SALES INSIGHTS </b> </center>center>
+<center><b>✨✨✨ ALIBABA SALES INSIGHTS </b></center>center>
 
 ![Insights Page](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/a1b95743-8c43-4f16-9ae1-0f79876824a0)
 
