@@ -3,7 +3,7 @@
 
 
 # Hi there!👋 
-I am Feyikemi Olajide. Welcome. 
+I am Feyikemi Olajide.
 
 
 
