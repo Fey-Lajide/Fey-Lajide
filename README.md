@@ -1,4 +1,4 @@
-<p style="text-align: center;"># Hi there! 👋 I am Feyikemi Olajide.</p>
+<p style="text-align: center;"># Hi there! 👋 I am Feyikemi Olajide</p>
 # Hi there! 👋 I am Feyikemi Olajide.
  
  
