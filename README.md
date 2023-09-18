@@ -1,6 +1,6 @@
- <p align = "center">
+<p style="text-align: center;"># Hi there! 👋 I am Feyikemi Olajide.</p>
 # Hi there! 👋 I am Feyikemi Olajide.
- </p>
+ 
  
 <br />
  
