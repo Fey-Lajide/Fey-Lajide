@@ -4,10 +4,6 @@
 
 ## Hi there!👋 I am Feyikemi Olajide.
 
-\
-\
-\
-
 <br />
 
 
@@ -21,7 +17,9 @@
 </p>
 
 <p align="center">
+  
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
 </p>
 
 
