@@ -14,13 +14,11 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 
 - 🔭 I’m currently working on being the best Data Analyst and the most sought after in the field. 
 - 🌱 I’m currently scalling up by learning how to utilise Python to utilize data. 
-- 👯 I’m looking to collaborate on Data related projects.
-- 🤔 Do you have any project that involves analysis and visulaization of data? Hit me up!
-- 💬 Ask me about Anything Data and Data Analytics.
+- 👯 I’m looking to collaborate on data-related projects.
+- 📫 Check out my reputation: https://www.linkedin.com/in/feylajide/
+- 🤔 Do you have any projects that involve the analysis and visualization of data? Hit me up!
 - 📫 How to reach me: https://www.linkedin.com/in/feylajide/
 - 📫 How to reach me: https://twitter.com/_Feyikemi_O
-- 📫 Check out my reputation: https://www.linkedin.com/in/feylajide/
-- 😄 Pronouns: She
 - ⚡ Fun fact: I teach Data Analysis!
 - ⚡ Fun fact: I write!
 
@@ -31,10 +29,10 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 
 
 <h3><B>🛠️ MY TOOLS ✨✨✨</B></h1> 
-- 🛠️ POWER BI \
-- 🛠️ EXCEL \
-- 🛠️ MYSQL \
-- 🛠️ POSTGRESQL \
-- 🛠️ TABLEAU \
+- 🛠️ POWER BI <BR/>
+- 🛠️ EXCEL <BR/>
+- 🛠️ MYSQL <BR/>
+- 🛠️ POSTGRESQL <BR/>
+- 🛠️ TABLEAU <BR/>
 
 
