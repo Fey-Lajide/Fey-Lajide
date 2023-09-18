@@ -1,31 +1,10 @@
-
-
-
-
 # Hi there!👋 I am Feyikemi Olajide.
 
 <br />
  
  
-<img src = "https://unsplash.com/photos/hpjSkU2UYSU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" width="100" height="100" border="10"/>
+<img src = ["https://unsplash.com/photos/hpjSkU2UYSU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink"] width="100" height="100" border="10"/>
 
-
-<br />
-https://unsplash.com/photos/hpjSkU2UYSU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
-<p align="center">
-
-</p>
-
-<p align="left">
-  
-![new_im](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/1c75da26-5421-4ffe-b6da-8f4524c462c3)
-
-</p>
-
-<p align="center">
-  
-[![N|Solid](https://www.linkedin.com/in/feylajide/)
-</p>
 
 
 ## ABOUT ME ✨
