@@ -1,6 +1,6 @@
 
 
- # Hi there 👋 
+** # Hi there 👋 **
 
 <br />
 
@@ -13,13 +13,15 @@
 
 
 
-ABOUT ME ✨
+** ##ABOUT ME ✨ **
 
 <BR />
 
 **I** am a ✨ Data Analyst and Data Storyteller ✨ with project experience with top companies like Pwc, KPMG, TATA, and Accenture.
 
 <br />
+
+# MORE INFOR ✨✨
 
 - 🔭 I’m currently working on being the best Data Analyst and the most sought after in the field. 
 - 🌱 I’m currently scalling up by learning how to utilise Python to utilize data. 
