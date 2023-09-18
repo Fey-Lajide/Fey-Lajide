@@ -1,15 +1,14 @@
 
+### Hi there 👋
 
-https://www.linkedin.com/in/feylajide/
-https://twitter.com/_Feyikemi_O
 
 ![data-analyst](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/ffbc0a1f-c485-4f06-a6e7-265ef56e229c)
 
 
 
-### Hi there 👋
 
-<<!--
+
+
 **I** am a ✨ Data Analyst and Data Storyteller ✨ with project experience with top companies like Pwc, KPMG, TATA, and Accenture.
 Here are some ideas to get you started:
 
@@ -24,4 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She
 - ⚡ Fun fact: I teach Data Analysis!
 - ⚡ Fun fact: I write!
--->
+
