@@ -45,6 +45,7 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 
 
 <h5><b>🔭🔭🔭HR INSIGHTS</b></h5> 
+<br/>
 
   <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/d283813a-c5b1-4a62-82a5-4b94801e84a8.png" width="420" height="350">
 
