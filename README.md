@@ -30,10 +30,10 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 - 🛠️ TABLEAU <BR/>
 
 
-<h1 align = "center"><B>SNIPPETS OF MY PROJECTS ✨</B></h1> 
+<h1 align = "center"><B>SNIPPETS OF MY PROJECTS</B></h1> 
 
 
-<h2 align = "center"> <b>✨✨✨ ALIBABA SALES INSIGHTS </b></h2>
+<h2 align = "center"> <b>ALIBABA SALES INSIGHTS </b></h2>
 
 <br/>
 
@@ -42,7 +42,7 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 ![Sales Page](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/dd084a08-3d02-40b5-9847-59fcfe15aba6)
 <br/>
 
-<h2 align = "center"> <b>✨✨✨ HR INSIGHTS </b></h2> 
+<h2 align = "center"> <b>HR INSIGHTS </b></h2> 
 <br/>
 
 ![Details Page](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/d283813a-c5b1-4a62-82a5-4b94801e84a8)
