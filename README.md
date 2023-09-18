@@ -1,5 +1,5 @@
  <p align = "center">
-# Hi there! 👋 I am Feyikemi Olajide.
+** Hi there! 👋 I am Feyikemi Olajide.**
  </p>
  
 <br />
