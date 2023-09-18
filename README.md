@@ -3,7 +3,7 @@
 <br />
  
  <p align = "center">
-<img width="320" height="350" src = "https://www.pexels.com/photo/person-using-a-laptop-3183131/">
+<img src = "https://www.pexels.com/photo/person-using-a-laptop-3183131/">
  </p>
 
 
@@ -30,6 +30,6 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 
 
 
-<h3 align="center">MORE INFOR ✨✨</h1> 
+<h3 align="center">MY TOOLS ✨✨✨</h1> 
 
 
