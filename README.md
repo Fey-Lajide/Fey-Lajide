@@ -34,7 +34,7 @@ I am a Data Analyst and Data Storyteller with project experience from top compan
 
 <h3><B>✨ SNIPPETS OF MY PROJECTS</B></h3> 
 
- <h4><b>🔭 PWC CUSTOMEMR CHURN ANALYSIS</b></h4> 
+ <h4><b>PWC CUSTOMEMR CHURN ANALYSIS</b></h4> 
 <br/> 
 
 <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/52a665b5-9457-41eb-85a1-c9d5506f45a1.png" width="420" height="350"><BR/><BR/>
@@ -42,7 +42,7 @@ I am a Data Analyst and Data Storyteller with project experience from top compan
 <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/54751ec5-1316-4e43-aed6-2964aff0e858.png" width="420" height="350">
 
 
-<h4><b>🔭 ALIBABA SALES INSIGHTS</b></h4>
+<h4><b>ALIBABA SALES INSIGHTS</b></h4>
 
 <br/>
 
@@ -51,7 +51,7 @@ I am a Data Analyst and Data Storyteller with project experience from top compan
   <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/c4d3ccd7-9f8e-4d3f-92b3-a152e7df63c2.png" width="420" height="350">
 
 
-<h4><b>🔭 HR INSIGHTS</b></h4> 
+<h4><b>HR INSIGHTS</b></h4> 
 <br/>
 
   <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/d283813a-c5b1-4a62-82a5-4b94801e84a8.png" width="420" height="350"><BR/><BR/>
