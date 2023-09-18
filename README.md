@@ -2,7 +2,10 @@
 
 <br />
 
+<p align = "center">
+
   <img align = "center" src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/cd72b079-b2bd-4e66-ba3e-6a41a6aa91e9.jpg" width="420" height="350">
+  </p>
 
 
 
