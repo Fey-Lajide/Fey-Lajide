@@ -12,10 +12,9 @@ I am Feyikemi Olajide. Welcome.
 
 
 
-
+<p align="center">
 ![new_im](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/25b985ff-2b06-49b1-9960-80c7589a3a05)
-
-
+</p>
 
 ## ABOUT ME ✨
 
