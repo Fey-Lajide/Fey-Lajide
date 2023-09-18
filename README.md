@@ -2,8 +2,9 @@
 
 <br />
  
- 
-<img src = "https://unsplash.com/photos/hpjSkU2UYSU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" width="100" height="100" border="10"/>
+ <p align = "center">
+<img src = "https://unsplash.com/photos/hpjSkU2UYSU?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink" width="320" height="350" border="10"/>
+ </p>
 
 
 
