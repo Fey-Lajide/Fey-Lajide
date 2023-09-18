@@ -4,10 +4,8 @@
 
 <p align = "center">
 
-  <img align = "center" src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/cd72b079-b2bd-4e66-ba3e-6a41a6aa91e9.jpg" width="420" height="350">
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/cd72b079-b2bd-4e66-ba3e-6a41a6aa91e9.jpg" width="420" height="350">
   </p>
-
-
 
 
 <h3>ABOUT ME ✨</h3> 
@@ -39,20 +37,35 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 <h2 align = "center"> <b>ALIBABA SALES INSIGHTS </b></h2>
 
 <br/>
+<p align = "center">
 
-![Insights Page](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/a1b95743-8c43-4f16-9ae1-0f79876824a0)
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/a1b95743-8c43-4f16-9ae1-0f79876824a0.png" width="420" height="350">
+  </p>
 
-![Sales Page](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/dd084a08-3d02-40b5-9847-59fcfe15aba6)
+<p align = "center">
+
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/dd084a08-3d02-40b5-9847-59fcfe15aba6.png" width="420" height="350">
+  </p>
+
 <br/>
 
 <h2 align = "center"> <b>HR INSIGHTS </b></h2> 
 <br/>
 
-![Details Page](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/d283813a-c5b1-4a62-82a5-4b94801e84a8)
+<p align = "center">
 
-![Home Page](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/8de96158-9c97-4a14-996f-236d2d0c3ace)
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/d283813a-c5b1-4a62-82a5-4b94801e84a8.png" width="420" height="350">
+  </p>
 
-![HR Dashboard](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/0779d610-30df-476b-b0dc-2ea5893ff25f)
+  <p align = "center">
+
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/8de96158-9c97-4a14-996f-236d2d0c3ace.png" width="420" height="350">
+  </p>
+
+   <p align = "center">
+
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/0779d610-30df-476b-b0dc-2ea5893ff25f'png" width="420" height="350">
+  </p>
 
 
 <h3><b>MORE PROJECTS </b></h3>
