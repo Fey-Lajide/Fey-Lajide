@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=100" width="100" height="100" border="10"/>
 </p>
 
 <p align="left">
@@ -21,8 +21,7 @@
 
 <p align="center">
   
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
+[![N|Solid](https://www.linkedin.com/in/feylajide/)
 </p>
 
 
