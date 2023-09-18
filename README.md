@@ -1,4 +1,4 @@
-<p style="text-align: center;"># Hi there! 👋 I am Feyikemi Olajide</p>
+<h1 align="center">Material Bread</h1>
 # Hi there! 👋 I am Feyikemi Olajide.
  
  
@@ -9,7 +9,7 @@
  </p>
 
 
-
+##
 ## ABOUT ME ✨
 
 <BR />
