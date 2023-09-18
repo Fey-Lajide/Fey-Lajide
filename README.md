@@ -36,27 +36,23 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 <h5> <b>✨ALIBABA SALES INSIGHTS </b></h2>
 
 <br/>
-<p align = "center">
+
 
   <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/a1b95743-8c43-4f16-9ae1-0f79876824a0.png" width="620" height="450">
-  </p>
 
-<p align = "center">
+
 
   <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/dd084a08-3d02-40b5-9847-59fcfe15aba6.png" width="620" height="450">
-  </p>
 
 <h2><b>HR INSIGHTS ✨</b></h2> 
 
-<p align = "center">
+
 
   <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/d283813a-c5b1-4a62-82a5-4b94801e84a8.png" width="420" height="350">
-  </p>
 
-  <p align = "center">
 
   <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/8de96158-9c97-4a14-996f-236d2d0c3ace.png" width="420" height="350">
-  </p>
+
 
    <p align = "center">
 
