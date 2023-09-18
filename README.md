@@ -3,7 +3,7 @@
 <br />
  
  <p align = "center">
-<img src = "https://www.pexels.com/photo/person-using-a-laptop-3183131/">
+ <img width="200" height="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
  </p>
 
 
@@ -12,7 +12,7 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 
 <h3><b>MORE INFOR ✨✨✨</b></h3>
 
-- 🔭 I’m currently working on being the best Data Analyst and the most sought after in the field. 
+- 🔭 I’m currently working on being the best Data Analyst and the becoming the most sought after in the field. 
 - 🌱 I’m currently scalling up by learning how to utilise Python to utilize data. 
 - 👯 I’m looking to collaborate on data-related projects.
 - 📫 Check out my reputation: https://www.linkedin.com/in/feylajide/
@@ -26,13 +26,18 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 <br />
 
 
-
-
-<h3><B>🛠️ MY TOOLS ✨✨✨</B></h1> 
+<h3><B>MY TOOLS ✨✨✨</B></h1> 
 - 🛠️ POWER BI <BR/>
 - 🛠️ EXCEL <BR/>
 - 🛠️ MYSQL <BR/>
 - 🛠️ POSTGRESQL <BR/>
 - 🛠️ TABLEAU <BR/>
+
+
+<br />
+
+<h3><B>SNIPPETS OF MY PROJECTS ✨✨✨</B></h1> 
+
+
 
 
