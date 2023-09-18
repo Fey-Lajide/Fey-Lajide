@@ -1,6 +1,6 @@
 
 
-** # Hi there 👋 **
+#**Hi there** 👋
 
 <br />
 
@@ -13,7 +13,7 @@
 
 
 
-** ##ABOUT ME ✨ **
+**##ABOUT ME** ✨
 
 <BR />
 
