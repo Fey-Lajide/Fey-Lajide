@@ -25,6 +25,7 @@ I am a Data Analyst and Data Storyteller with project experience from top compan
 - ⚡ Fun fact: I write!
 
 <h3><B>✨ MY TOOLS</B></h1> 
+- 🔭 I’m currently working on being the best Data Analyst and the most sought after in the field. 
 - 🛠️ POWER BI <BR/>
 - 🛠️ TABLEAU <BR/>
 - 🛠️ POSTGRESQL <BR/>
