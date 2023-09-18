@@ -4,7 +4,7 @@
 
 <p align = "center">
 
-  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/859b4d64-a083-4da6-aaa9-cfe8e84f292e.png" width="420" height="350">
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/859b4d64-a083-4da6-aaa9-cfe8e84f292e.png" width="620" height="350">
   </p>
 
 
