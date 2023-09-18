@@ -5,16 +5,15 @@
 # Hi there!👋 
 I am Feyikemi Olajide. Welcome. 
 
-<br />
-
-
-<br />
-
-
-
-<p align="center">
- <img width="200" src=![new_im](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/25b985ff-2b06-49b1-9960-80c7589a3a05)>
 </p>
+
+<br />
+
+
+<br />
+
+
+
 
 ## ABOUT ME ✨
 
