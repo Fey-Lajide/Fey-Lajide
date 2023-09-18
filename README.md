@@ -2,7 +2,7 @@
 
 
 
-## Hi there!👋 I am Feyikemi Olajide.
+# Hi there!👋 I am Feyikemi Olajide.
 
 <br />
 
@@ -10,7 +10,7 @@
 <br />
 
 
-<p align="center">
+<p align="left">
   
 ![new_im](https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/1c75da26-5421-4ffe-b6da-8f4524c462c3)
 
