@@ -1,3 +1,5 @@
+<p align="center">
+
 
 
 # Hi there!👋 
@@ -38,3 +40,4 @@ I am Feyikemi Olajide. Welcome.
 
 <br />
 
+</p>
