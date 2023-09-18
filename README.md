@@ -30,6 +30,11 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 
 
 
-<h3 align="center">MY TOOLS ✨✨✨</h1> 
+<h3><B>🛠️ MY TOOLS ✨✨✨</B></h1> 
+- 🛠️ POWER BI 
+- 🛠️ EXCEL 
+- 🛠️ MYSQL 
+- 🛠️ POSTGRESQL 
+- 🛠️ TABLEAU 
 
 
