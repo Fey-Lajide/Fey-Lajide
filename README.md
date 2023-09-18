@@ -11,7 +11,7 @@
 <h3>✨ ABOUT ME</h3> 
 I am a Data Analyst and Data Storyteller with project experience with top companies like Pwc, KPMG, TATA, and Accenture
 
-<h3><b>MORE INFOR ✨</b></h3>
+<h3><b>✨ MORE INFOR</b></h3>
 
 - 🔭 I’m currently working on being the best Data Analyst and the becoming the most sought after in the field. 
 - 🌱 I’m currently scalling up by learning how to utilise Python to utilize data. 
@@ -23,20 +23,20 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 - ⚡ Fun fact: I teach Data Analysis!
 - ⚡ Fun fact: I write!
 
-<h3><B>MY TOOLS ✨</B></h1> 
+<h3><B>✨ MY TOOLS</B></h1> 
 - 🛠️ POWER BI <BR/>
 - 🛠️ EXCEL <BR/>
 - 🛠️ MYSQL <BR/>
 - 🛠️ POSTGRESQL <BR/>
 - 🛠️ TABLEAU <BR/>
 
-<h3><B>SNIPPETS OF MY PROJECTS ✨</B></h3> 
+<h3><B>✨ SNIPPETS OF MY PROJECTS</B></h3> 
 
  <h5><b>🔭 Pwc CUSTOMEMR CHURN ANALYSIS</b></h5> 
 <br/> 
 
-<img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/52a665b5-9457-41eb-85a1-c9d5506f45a1.png" width="420" height="350"><BR/>
-<img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/b933a5ce-9019-4452-b54e-2e89a59ecf8b.png" width="420" height="350"><BR/>
+<img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/52a665b5-9457-41eb-85a1-c9d5506f45a1.png" width="420" height="350"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/b933a5ce-9019-4452-b54e-2e89a59ecf8b.png" width="420" height="350"><BR/><BR/>
 <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/54751ec5-1316-4e43-aed6-2964aff0e858.png" width="420" height="350">
 
 
@@ -44,8 +44,8 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 
 <br/>
 
-  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/a1b95743-8c43-4f16-9ae1-0f79876824a0.png" width="420" height="350"><BR/>
-  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/dd084a08-3d02-40b5-9847-59fcfe15aba6.png" width="420" height="350"><BR/>
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/a1b95743-8c43-4f16-9ae1-0f79876824a0.png" width="420" height="350"><BR/><BR/>
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/dd084a08-3d02-40b5-9847-59fcfe15aba6.png" width="420" height="350"><BR/><BR/>
   <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/c4d3ccd7-9f8e-4d3f-92b3-a152e7df63c2.png" width="420" height="350">
 
 
@@ -57,5 +57,5 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
   <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/0779d610-30df-476b-b0dc-2ea5893ff25f'png" width="420" height="350">
 
 
-<h3><b>MORE PROJECTS ✨</b></h3>
+<h3><b>✨ MORE PROJECTS</b></h3>
 Will you like to explore more of my projects? Then click this link https://github.com/Fey-Lajide?tab=repositories
