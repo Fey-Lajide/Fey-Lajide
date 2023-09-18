@@ -32,7 +32,7 @@ I am a Data Analyst and Data Storyteller with project experience with top compan
 
 <h3><B>✨ SNIPPETS OF MY PROJECTS</B></h3> 
 
- <h5><b>🔭 Pwc CUSTOMEMR CHURN ANALYSIS</b></h5> 
+ <h5><b>🔭 PWC CUSTOMEMR CHURN ANALYSIS</b></h5> 
 <br/> 
 
 <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/52a665b5-9457-41eb-85a1-c9d5506f45a1.png" width="420" height="350"><BR/><BR/>
