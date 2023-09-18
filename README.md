@@ -3,14 +3,14 @@
 <br />
  
  <p align = "center">
-<img width="320" height="350" src = "Photo by fauxels from Pexels: https://www.pexels.com/photo/person-using-a-laptop-3183131/">
+<img width="320" height="350" src = "https://www.pexels.com/photo/person-using-a-laptop-3183131/">
  </p>
 
 
-<h3>ABOUT ME ✨</h3> 
+<h3>ABOUT ME ✨✨✨</h3> 
 I am a Data Analyst and Data Storyteller with project experience with top companies like Pwc, KPMG, TATA, and Accenture
 
-<h5>MORE INFOR</h5>
+<h3><b>MORE INFOR ✨✨✨</b></h3>
 
 - 🔭 I’m currently working on being the best Data Analyst and the most sought after in the field. 
 - 🌱 I’m currently scalling up by learning how to utilise Python to utilize data. 
