@@ -7,7 +7,7 @@
  </p>
 
 
-<h1 align="center">ABOUT ME ✨</h1> 
+<h3>ABOUT ME ✨</h3> 
 <h3 align="center"><b>I am a ✨ **Data Analyst and Data Storyteller** ✨ with project experience with top companies like **Pwc, KPMG, TATA, and Accenture.</b></h3>
 
 <h5>MORE INFOR</h5>
