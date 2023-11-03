@@ -59,4 +59,4 @@ I am a Data Analyst and Data Storyteller with project experience from top compan
 
 
 <h3><b>✨ MORE PROJECTS</b></h3>
-Will you like to explore more of my projects? Then click this link https://github.com/Fey-Lajide?tab=repositories
+Will you like to explore more of my projects? Then click this link https://github.com/Fey-Lajide?tab=stars 
