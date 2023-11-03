@@ -45,18 +45,18 @@ I am a Data Analyst and Data Storyteller with project experience from top compan
 
 <br/>
 
-  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/a1b95743-8c43-4f16-9ae1-0f79876824a0.png" width="420" height="350"><BR/><BR/>
-  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/dd084a08-3d02-40b5-9847-59fcfe15aba6.png" width="420" height="350"><BR/><BR/>
-  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/c4d3ccd7-9f8e-4d3f-92b3-a152e7df63c2.png" width="420" height="350">
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/a1b95743-8c43-4f16-9ae1-0f79876824a0.png"><BR/><BR/>
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/dd084a08-3d02-40b5-9847-59fcfe15aba6.png"><BR/><BR/>
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/c4d3ccd7-9f8e-4d3f-92b3-a152e7df63c2.png">
 
 
 <h4><b>HR INSIGHTS</b></h4> 
 <br/>
 
-  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/d283813a-c5b1-4a62-82a5-4b94801e84a8.png" width="420" height="350"><BR/><BR/>
-  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/8de96158-9c97-4a14-996f-236d2d0c3ace.png" width="420" height="350"><BR/><BR/>
-  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/0779d610-30df-476b-b0dc-2ea5893ff25f'png" width="420" height="350">
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/d283813a-c5b1-4a62-82a5-4b94801e84a8.png"><BR/><BR/>
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/8de96158-9c97-4a14-996f-236d2d0c3ace.png"><BR/><BR/>
+  <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/0779d610-30df-476b-b0dc-2ea5893ff25f'png">
 
 
-<h3><b>✨ MORE PROJECTS</b></h3>
-Will you like to explore more of my projects? Then click this link https://github.com/Fey-Lajide?tab=stars 
+<h3><b>✨ PROJECT DETAILS </b></h3>
+Will you like to know the steps I took in creating the above reports or will you like to see more of my projects? Click https://github.com/Fey-Lajide?tab=stars 
