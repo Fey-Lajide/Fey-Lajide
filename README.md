@@ -36,9 +36,9 @@ I am a Data Analyst and Data Storyteller with project experience from top compan
  <h4><b>PWC CUSTOMEMR CHURN ANALYSIS</b></h4> 
 <br/> 
 
-<img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/52a665b5-9457-41eb-85a1-c9d5506f45a1.png" width="420" height="350"><BR/><BR/>
-<img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/b933a5ce-9019-4452-b54e-2e89a59ecf8b.png" width="420" height="350"><BR/><BR/>
-<img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/54751ec5-1316-4e43-aed6-2964aff0e858.png" width="420" height="350">
+<img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/52a665b5-9457-41eb-85a1-c9d5506f45a1.png"> <BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/b933a5ce-9019-4452-b54e-2e89a59ecf8b.png"><BR/><BR/>
+<img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/54751ec5-1316-4e43-aed6-2964aff0e858.png">
 
 
 <h4><b>ALIBABA SALES INSIGHTS</b></h4>
