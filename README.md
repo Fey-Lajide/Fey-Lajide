@@ -9,7 +9,6 @@
   <img  src="https://github.com/Fey-Lajide/Fey-Lajide/assets/124121752/859b4d64-a083-4da6-aaa9-cfe8e84f292e.png" width="620" height="350">
   </p>
 
-
 <h3>✨ ABOUT ME</h3> 
 I am a Data Analyst and Data Storyteller with project experience from top companies like Pwc, KPMG, TATA, and Accenture.
 
@@ -19,6 +18,7 @@ I am a Data Analyst and Data Storyteller with project experience from top compan
 - 📫 Check out my reputation: https://www.linkedin.com/in/feylajide/
 - 🤔 Do you have any projects that involve the analysis and visualization of data? Hit me up!
 - 📫 How to reach me: https://www.linkedin.com/in/feylajide/
+- 📫 Interact with my projects: https://www.novypro.com/profile_projects/feylajide
 - 📫 How to reach me: https://twitter.com/_Feyikemi_O
 - ⚡ Fun fact: I teach Data Analysis!
 - ⚡ Fun fact: I write!
