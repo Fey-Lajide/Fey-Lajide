@@ -10,7 +10,7 @@
   </p>
 
 <h3>✨ ABOUT ME</h3> 
-I am a Data Analyst and Data Storyteller with project experience from top companies like Pwc, KPMG, TATA, and Accenture.
+I am a Data Analyst and Data Storyteller with project experience from top companies like PwC, KPMG, TATA, and Accenture.
 
 <h3><b>✨ MORE ABOUT ME</b></h3>
 
